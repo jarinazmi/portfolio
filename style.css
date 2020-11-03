@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* banner */
+.banner{
+    background-color: blueviolet;
+}
+.bcolumn{
+    background-color: rgb(220, 20, 20);
+}
+
+/*--/ banner-- */
+
+/* navbar */
+li a{
+    text-transform: capitalize;
+}
+/*--/ navbar-- */
+
+/* about me */
+
+/*close- about me */
+
+/* education */
+.circle{
+    background-color: rgb(220, 20, 20);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+}
+/*close- education */
+
